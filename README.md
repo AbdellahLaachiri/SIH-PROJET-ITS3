@@ -3,8 +3,8 @@
 Projet ECUE531 - EPISEN ITS3 - 2026-2027
 
 ## Équipe
-- Abdellah : (rôle à définir)
-- Binôme : (à compléter)
+- Abdellah : 
+- Soundous : 
 
 ## Objectif
 Maquette d'un SIH reliant consultation, prescription, RIS, FHIR, CDA et PACS (Orthanc).
