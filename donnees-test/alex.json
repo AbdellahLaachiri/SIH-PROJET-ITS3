@@ -1,0 +1,12 @@
+{
+  "resourceType": "Patient",
+  "id": "pat-001",
+  "identifier": [
+    { "system": "urn:sih-its:patient", "value": "pat-001" }
+  ],
+  "name": [
+    { "family": "Dang", "given": ["Alex"] }
+  ],
+  "gender": "male",
+  "birthDate": "2001-04-09"
+}
